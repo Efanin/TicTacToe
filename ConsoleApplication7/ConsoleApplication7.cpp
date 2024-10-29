@@ -30,7 +30,6 @@ public:
         this->name = name;
     }
 };
-
 int main()
 {
     vector<Player> players =
